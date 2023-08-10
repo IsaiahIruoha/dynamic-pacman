@@ -1,4 +1,3 @@
-//We attest to the originality of our code (Isaiah Iruoha & Blaise Elliot)
 #include <cstdio> //all required libraries are included
 #include <cstdlib>
 #include <ctime>
